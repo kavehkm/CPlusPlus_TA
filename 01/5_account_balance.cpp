@@ -19,4 +19,6 @@ int main() {
     balance += transaction;
 
     cout << "balance is: " << balance;
+
+    return 0;
 }
