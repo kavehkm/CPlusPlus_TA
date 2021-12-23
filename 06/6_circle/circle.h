@@ -1,9 +1,6 @@
 // check for header
 #ifndef CIRCLE_H
 #define CIRCLE_H
-#include <iostream>
-#include <cassert>
-using namespace std;
 
 
 class Circle {

@@ -1,4 +1,5 @@
 #include "circle.h"
+#include <cassert>
 #include <cmath>
 
 
