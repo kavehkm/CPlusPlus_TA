@@ -16,7 +16,7 @@ void reverseString(string& strg) {
 
 
 void reverseString(string* pStrg) {
-    string  strgCopy(*pStrg);
+    string strgCopy(*pStrg);
     int size = (*pStrg).size();
     for (size_t i = 0; i < size; i++)
     {
