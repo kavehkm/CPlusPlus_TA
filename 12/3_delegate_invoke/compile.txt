@@ -1,0 +1,4 @@
+1) g++ -c person.cpp
+2) g++ -c student.cpp
+3) g++ -c app.cpp
+4) g++ person.o student.o app.o -o app
